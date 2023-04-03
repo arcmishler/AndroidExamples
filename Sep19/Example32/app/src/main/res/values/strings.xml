@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example32</string>
+    <string name="job_service">Job Service</string>
+    <string name="job_running">Your Job is running!</string>
+</resources>

@@ -8,8 +8,7 @@
 /build
 /captures
 .externalNativeBuild
-.odp
-.pdf
-.zip
-.xlsx
-.mp4
+*.odp
+*.zip
+*.xlsx
+*.mp4
